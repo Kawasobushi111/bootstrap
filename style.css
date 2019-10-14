@@ -1,0 +1,16 @@
+.jumbotron{
+    background-image: url('./images/Bojackettodd.png');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+
+    position: relative;
+    text-align: center;
+}
+.jumbotron-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
